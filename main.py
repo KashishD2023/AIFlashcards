@@ -4,7 +4,7 @@ import fitz  # PyMuPDF
 import openai
 
 # Set your OpenAI API key
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "..."
 openai.api_key = OPENAI_API_KEY
 
 class FlashcardApp:
